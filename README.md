@@ -2,12 +2,12 @@
 
 Before Running the script need to install aws cli 
 
-# AWs Cli Installation by running this command on Linux Environment
-	pip install awscli
+ **AWs Cli Installation by running this command on Linux Environment**
+	$ pip install awscli
 
 		#If Pip Not insalled
 
-		 apt-get -y install python-pip
+		 $ apt-get -y install python-pip
 
 	 	# windows 
 	  	Get Msi installer for aws cli from the below link
@@ -16,7 +16,7 @@ Before Running the script need to install aws cli
 
 	#Configure Aws Cli
 	$ aws configure
-	  Enter access key id and secret key and region of aws to be configured.
+	  Enter access key id and secret key and region one by one of aws to be configured.
 
 
 
