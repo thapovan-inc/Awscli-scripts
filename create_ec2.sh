@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#172.31.0.0/16
+
 
 profile="default"
 
